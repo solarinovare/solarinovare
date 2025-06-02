@@ -9,7 +9,6 @@ int main() {
     float area1 = 1521.11f;
     float pib1 = 699.28f;
     float pontosTuristicos1 = (float)50;
-
     float densidade1 = (float)populacao1 / area1;
     float pibPerCapita1 = (float)(pib1 * 1000000000.0f) / populacao1;
 
@@ -21,7 +20,6 @@ int main() {
     float area2 = 1200.25f;
     float pib2 = 300.50f;
     float pontosTuristicos2 = (float)30;
-
     float densidade2 = (float)populacao2 / area2;
     float pibPerCapita2 = (float)(pib2 * 1000000000.0f) / populacao2;
 
