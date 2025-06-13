@@ -49,9 +49,9 @@ int main() {
 
     printf("\n");
 
-    // ----------------------
+    // ++++++++++++++++++++++
     // Movimento do Cavalo
-    // ----------------------
+    // ++++++++++++++++++++++
 
     // O cavalo: move em "L": 2 casas para baixo e 1 para a esquerda
     
