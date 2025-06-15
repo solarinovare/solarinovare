@@ -1,6 +1,5 @@
- ========================================================================
+
  SUPER TRUNFO - DESAFIO FINAL
- ========================================================================
   
  Programa: Sistema avançado de comparação de cartas Super Trunfo
  Autor: Desenvolvido para o desafio de programação em C
